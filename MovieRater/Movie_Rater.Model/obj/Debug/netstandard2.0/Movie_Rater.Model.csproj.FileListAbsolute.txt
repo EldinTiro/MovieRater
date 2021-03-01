@@ -7,3 +7,12 @@ C:\Users\Eldin\source\repos\MovieRater\Movie_Rater.Model\obj\Debug\netstandard2.
 C:\Users\Eldin\source\repos\MovieRater\Movie_Rater.Model\obj\Debug\netstandard2.0\Movie_Rater.Model.csproj.CoreCompileInputs.cache
 C:\Users\Eldin\source\repos\MovieRater\Movie_Rater.Model\obj\Debug\netstandard2.0\Movie_Rater.Model.dll
 C:\Users\Eldin\source\repos\MovieRater\Movie_Rater.Model\obj\Debug\netstandard2.0\Movie_Rater.Model.pdb
+C:\Users\Eldin\source\repos\MovirRaterApp\MovieRater\Movie_Rater.Model\bin\Debug\netstandard2.0\Movie_Rater.Model.deps.json
+C:\Users\Eldin\source\repos\MovirRaterApp\MovieRater\Movie_Rater.Model\bin\Debug\netstandard2.0\Movie_Rater.Model.dll
+C:\Users\Eldin\source\repos\MovirRaterApp\MovieRater\Movie_Rater.Model\bin\Debug\netstandard2.0\Movie_Rater.Model.pdb
+C:\Users\Eldin\source\repos\MovirRaterApp\MovieRater\Movie_Rater.Model\obj\Debug\netstandard2.0\Movie_Rater.Model.csprojAssemblyReference.cache
+C:\Users\Eldin\source\repos\MovirRaterApp\MovieRater\Movie_Rater.Model\obj\Debug\netstandard2.0\Movie_Rater.Model.AssemblyInfoInputs.cache
+C:\Users\Eldin\source\repos\MovirRaterApp\MovieRater\Movie_Rater.Model\obj\Debug\netstandard2.0\Movie_Rater.Model.AssemblyInfo.cs
+C:\Users\Eldin\source\repos\MovirRaterApp\MovieRater\Movie_Rater.Model\obj\Debug\netstandard2.0\Movie_Rater.Model.csproj.CoreCompileInputs.cache
+C:\Users\Eldin\source\repos\MovirRaterApp\MovieRater\Movie_Rater.Model\obj\Debug\netstandard2.0\Movie_Rater.Model.dll
+C:\Users\Eldin\source\repos\MovirRaterApp\MovieRater\Movie_Rater.Model\obj\Debug\netstandard2.0\Movie_Rater.Model.pdb

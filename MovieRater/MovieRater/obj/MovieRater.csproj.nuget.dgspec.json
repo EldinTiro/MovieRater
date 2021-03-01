@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eldin\\source\\repos\\MovieRater\\MovieRater\\MovieRater.csproj": {}
+    "C:\\Users\\Eldin\\source\\repos\\MovirRaterApp\\MovieRater\\MovieRater\\MovieRater.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eldin\\source\\repos\\MovieRater\\MovieRater\\MovieRater.csproj": {
+    "C:\\Users\\Eldin\\source\\repos\\MovirRaterApp\\MovieRater\\MovieRater\\MovieRater.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eldin\\source\\repos\\MovieRater\\MovieRater\\MovieRater.csproj",
+        "projectUniqueName": "C:\\Users\\Eldin\\source\\repos\\MovirRaterApp\\MovieRater\\MovieRater\\MovieRater.csproj",
         "projectName": "MovieRater",
-        "projectPath": "C:\\Users\\Eldin\\source\\repos\\MovieRater\\MovieRater\\MovieRater.csproj",
+        "projectPath": "C:\\Users\\Eldin\\source\\repos\\MovirRaterApp\\MovieRater\\MovieRater\\MovieRater.csproj",
         "packagesPath": "C:\\Users\\Eldin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eldin\\source\\repos\\MovieRater\\MovieRater\\obj\\",
+        "outputPath": "C:\\Users\\Eldin\\source\\repos\\MovirRaterApp\\MovieRater\\MovieRater\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -33,8 +33,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Eldin\\source\\repos\\MovieRater\\Movie_Rater.Model\\Movie_Rater.Model.csproj": {
-                "projectPath": "C:\\Users\\Eldin\\source\\repos\\MovieRater\\Movie_Rater.Model\\Movie_Rater.Model.csproj"
+              "C:\\Users\\Eldin\\source\\repos\\MovirRaterApp\\MovieRater\\Movie_Rater.Model\\Movie_Rater.Model.csproj": {
+                "projectPath": "C:\\Users\\Eldin\\source\\repos\\MovirRaterApp\\MovieRater\\Movie_Rater.Model\\Movie_Rater.Model.csproj"
               }
             }
           }
@@ -98,14 +98,14 @@
         }
       }
     },
-    "C:\\Users\\Eldin\\source\\repos\\MovieRater\\Movie_Rater.Model\\Movie_Rater.Model.csproj": {
+    "C:\\Users\\Eldin\\source\\repos\\MovirRaterApp\\MovieRater\\Movie_Rater.Model\\Movie_Rater.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eldin\\source\\repos\\MovieRater\\Movie_Rater.Model\\Movie_Rater.Model.csproj",
+        "projectUniqueName": "C:\\Users\\Eldin\\source\\repos\\MovirRaterApp\\MovieRater\\Movie_Rater.Model\\Movie_Rater.Model.csproj",
         "projectName": "Movie_Rater.Model",
-        "projectPath": "C:\\Users\\Eldin\\source\\repos\\MovieRater\\Movie_Rater.Model\\Movie_Rater.Model.csproj",
+        "projectPath": "C:\\Users\\Eldin\\source\\repos\\MovirRaterApp\\MovieRater\\Movie_Rater.Model\\Movie_Rater.Model.csproj",
         "packagesPath": "C:\\Users\\Eldin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eldin\\source\\repos\\MovieRater\\Movie_Rater.Model\\obj\\",
+        "outputPath": "C:\\Users\\Eldin\\source\\repos\\MovirRaterApp\\MovieRater\\Movie_Rater.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

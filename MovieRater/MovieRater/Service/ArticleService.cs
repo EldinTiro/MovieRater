@@ -127,6 +127,7 @@ namespace MovieRater.Service
                     vm.Grade = s.AvgScore;
                     vm.Actors = _context.ArticleActorRelation.Where(w => w.ArticleId == item.ArticleId).Select(s => s.Actor.Name).ToList();
                     vm.Image = item.Image;
+                    vm.Description = item.Description;
 
                     if (stars != 0)
                     {

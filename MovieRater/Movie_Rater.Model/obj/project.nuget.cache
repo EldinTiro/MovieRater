@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e3dRckXPzitUnMKTT7QVLNxyhwN7ttaI9zmHislI8Bqr4RfNpw5YIN24f98rYJsTaGVH9ELNmylzKh/z3APbtQ==",
+  "dgSpecHash": "CAXIeEu7L+jA5uLi1qlUH4qeZHVE50jk9tvKfTZeKdPMiTCTCGx461DeVqE3WoGWNQQqi87AptqBwftMZxfLDw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Eldin\\source\\repos\\MovieRater\\Movie_Rater.Model\\Movie_Rater.Model.csproj",
+  "projectFilePath": "C:\\Users\\Eldin\\source\\repos\\MovirRaterApp\\MovieRater\\Movie_Rater.Model\\Movie_Rater.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Eldin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

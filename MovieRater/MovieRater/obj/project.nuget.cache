@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7yb/lbjUnXzfc1lj5trq3TvTWaI+OqxdG5K178AggSriRbQoKZUgttQsdjma0cZbzZIHPhZYkp+P7IofnOJ96Q==",
+  "dgSpecHash": "3Ji9yu22A0FAmoxlVGgM+vt0kugolontB2ApVI+GG0M/YhZxLJJ87eJm4OHymzP+pytVwHRk6OdbQc82Z1YQcw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Eldin\\source\\repos\\MovieRater\\MovieRater\\MovieRater.csproj",
+  "projectFilePath": "C:\\Users\\Eldin\\source\\repos\\MovirRaterApp\\MovieRater\\MovieRater\\MovieRater.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Eldin\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\Eldin\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

@@ -285,11 +285,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eldin\\source\\repos\\MovieRater\\Movie_Rater.Model\\Movie_Rater.Model.csproj",
+      "projectUniqueName": "C:\\Users\\Eldin\\source\\repos\\MovirRaterApp\\MovieRater\\Movie_Rater.Model\\Movie_Rater.Model.csproj",
       "projectName": "Movie_Rater.Model",
-      "projectPath": "C:\\Users\\Eldin\\source\\repos\\MovieRater\\Movie_Rater.Model\\Movie_Rater.Model.csproj",
+      "projectPath": "C:\\Users\\Eldin\\source\\repos\\MovirRaterApp\\MovieRater\\Movie_Rater.Model\\Movie_Rater.Model.csproj",
       "packagesPath": "C:\\Users\\Eldin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eldin\\source\\repos\\MovieRater\\Movie_Rater.Model\\obj\\",
+      "outputPath": "C:\\Users\\Eldin\\source\\repos\\MovirRaterApp\\MovieRater\\Movie_Rater.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

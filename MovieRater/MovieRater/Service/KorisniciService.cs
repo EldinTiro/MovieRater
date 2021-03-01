@@ -34,8 +34,9 @@ namespace MovieRater.Service
                 {
                     return _mapper.Map<KorisniciVM>(user);
                 }
+                else
+                    throw new ArgumentException("Pogrešan password");
             }
-
             return null;
         }
 
